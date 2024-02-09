@@ -15,7 +15,7 @@ public class Personaje {
     String height;
     String mass;
     String birthYear;
-     
+
     String hairColor;
     String eyeColor;
     String skinColor;
